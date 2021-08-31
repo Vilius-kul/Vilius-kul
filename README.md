@@ -2,7 +2,7 @@
 ---
 ## I am a self-taught, highly motivated aspiring software developer!
 
-- 🤔 I have basic understanding of HTML, CSS, Bootstrap, JS. Brief knowledge of C#, SQL
+- 🤔 I have basic understanding of HTML, CSS, Bootstrap, JS. Brief knowledge of C#, SQL.
 - 👓 I'm currently learnig Python (Flask and eventually Django)
 - 📓 I have just finished my first [webdev challange], already working on the next one!
 - 🥅 2021/2022 Goals: Get recruited as a junior python developer and deepen my Python knowledge.
