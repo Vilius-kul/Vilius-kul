@@ -16,3 +16,5 @@
 [GitHub]: https://github.com/Vilius-kul
 [1]: http://www.github.com/Vilius-kul
 [2]: https://www.linkedin.com/in/vilius-kulinas
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=Vilius-kul.Vilius-kul" alt="visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=Vilius-kul.Vilius-kul" style="max-width: 100%;">
