@@ -7,7 +7,7 @@
 
 - 🤔 I have a basic understanding of HTML, CSS, Bootstrap, JS. Brief knowledge of C#, SQL.
 - 👓 I'm currently learning FastAPI, have some knowledge of Flask as well.
-- 📓 I have just updated my Flask project to [FastAPI_Jokes], todo: containerize the app! 
+- 📓 I have just containerized my python app, check it out -->  [FastAPI_Jokes] 
 - 🥅 2022 Goals: Get recruited as a junior python developer and deepen my Python knowledge.
 ---
 ### Connect with me 
