@@ -3,12 +3,9 @@
 #### let me use the quote from The Pragmatic Programmer
 >Software is more like gardening--it is more organic than concrete.[...] You constantly monitor the health of the garden and make adjustments (to the soil, the plants, the layout) as needed.
 ---
-## I am a self-taught, highly motivated aspiring software developer!
+## Associate Product Development Engineer
 
-- 🤔 I have a basic understanding of HTML, CSS, JS. Brief knowledge of C#, SQL.
-- 👓 I'm currently learning FastAPI, have some knowledge of Flask as well.
-- 📓 I have just containerized my python app, check it out -->  [FastAPI_Jokes] 
-- 🥅 2022 Goals: Get recruited as a junior python developer and deepen my Python knowledge.
+
 ---
 ### Connect with me 
 
